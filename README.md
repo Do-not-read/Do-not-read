@@ -26,3 +26,6 @@ familiar with human physiology, it can be difficult to understand.
 -- from Manual for HumMod (Salt Version 3.0.4), Manual Version: 2.9
 
 http://acs.ist.psu.edu/reports/brenerBPRDWS19.pdf
+
+For further information see:
+https://readme.world/
